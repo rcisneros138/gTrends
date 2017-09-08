@@ -1,0 +1,28 @@
+{
+  "name": "gtrends",
+  "version": "1.0.0",
+  "description": "google trends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcisneros138/gTrends.git"
+  },
+  "author": "Raymond Cisneros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcisneros138/gTrends/issues"
+  },
+  "homepage": "https://github.com/rcisneros138/gTrends#readme",
+  "dependencies": {
+    "defaults-deep": "^0.2.3",
+    "google-flights-api": "^1.1.1",
+    "google-flights-wrapper": "^1.0.5",
+    "google-trends-api": "^4.2.1",
+    "install": "^0.10.1",
+    "qpx-api": "^0.1.0",
+    "qpx-client": "0.0.5"
+  }
+}
